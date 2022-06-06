@@ -10,6 +10,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/adatta2211/fraud-detection)
 
+---
 ### Header 3
 
 ```js
@@ -111,3 +112,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+---
