@@ -1,24 +1,14 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Data Science Portfolio
 
-[Link to another page](./another-page.html).
+> This page details my portfolio in regards to Data Science projects.
 
-There should be whitespace between paragraphs.
+## Machine Learning
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Fraud Detection
+> Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-# Project 1
-
-This section is to be updated later.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/adatta2211/fraud-detection)
 
 ### Header 3
 
